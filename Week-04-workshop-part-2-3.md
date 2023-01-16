@@ -59,4 +59,4 @@ Console.WriteLine("World!");
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
 
 
-## 4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()
+## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Week-04-workshop-part-4.md)
