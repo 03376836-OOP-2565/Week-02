@@ -71,5 +71,4 @@ using System.Threading.Tasks;
 
 สำหรับการสร้าง project ชนิดอื่น ๆ ก็จะมีการนำเข้า components ที่แตกต่างไปจาก console application
 
-If you need using directives that aren't implicitly included, you can add them to the .cs file that contains top-level statements or to other .cs files. 
-For using directives that you need in all of the .cs files in an application, use global using directives.
+ถ้าต้องการเพิ่ม components  ที่ไม่ถูกเพิ่มให้โดยคอมไพเลอร์ เราก็สามารถเพิ่มเองในไฟล์ .cs ได้เหมือนการเขียนโปรแกรมบน .NET รุ่นก่อน ๆ 
