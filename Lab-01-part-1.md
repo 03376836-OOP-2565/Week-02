@@ -79,4 +79,4 @@
 2. ข้อความบอกว่าถ้าต้องการปิดหน้าต่าง output และกลับไปที่ Visual Studio ให้กดปุ่มใด ๆ บนแป้นพิมพ์หนึ่งครั้ง
 
 
-## [Part 2 คำสั่ง Console.Write()](./Week-04-workshop-part-2-3.md)
+## [Part 2 คำสั่ง Console.Write()](./Lab-01-part-2-3.md)
