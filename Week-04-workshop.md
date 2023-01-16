@@ -1,4 +1,4 @@
-# Week 04 Basic CSharp Language
+# Lab-01 Basic CSharp Language
 
 ## การใช้งานภาษา C# ขั้นพื้นฐาน
 
