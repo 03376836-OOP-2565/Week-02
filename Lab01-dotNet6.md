@@ -72,4 +72,3 @@ using System.Threading.Tasks;
 ```
 
 สำหรับการสร้าง project ชนิดอื่น ๆ ก็จะมีการนำเข้า components ที่แตกต่างไปจาก console application
- 
