@@ -65,4 +65,4 @@ Console.WriteLine("{0:F5}", i);
 ```
 
 
-## [การใช้งานคำสั่ง Console.Read() และ Console.ReadLine()](./Week-04-workshop-part-9-12.md)
+## [การใช้งานคำสั่ง Console.Read() และ Console.ReadLine()](./Lab-01-part-9-12.md)
