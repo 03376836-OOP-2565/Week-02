@@ -61,6 +61,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
 สำหรับ console applications จะมีการกำหนด components เบื้องต้นให้ดังนี้  
 
+``` C#
 using System;
 using System.IO;
 using System.Collections.Generic;
@@ -68,6 +69,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
+```
 
 สำหรับการสร้าง project ชนิดอื่น ๆ ก็จะมีการนำเข้า components ที่แตกต่างไปจาก console application
 
