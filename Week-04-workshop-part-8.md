@@ -63,3 +63,6 @@ Console.WriteLine("{0:F5}", i);
 ``` csharp
 15. Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+
+
+## [การใช้งานคำสั่ง Console.Read() และ Console.ReadLine()](./Week-04-workshop-part-9-12.md)

@@ -77,4 +77,4 @@ Console.WriteLine("-----------------------");
 6. `Exclusive OR`
 
 
-## ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)
+## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Week-04-workshop-part-15.md)
