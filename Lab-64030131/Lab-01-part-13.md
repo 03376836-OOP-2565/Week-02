@@ -100,7 +100,7 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ---ผลการทดลอง `bool`<br>
 ![](./images/Slide43.png)
 
----ผลการทดลอง `sbyte`
+---ผลการทดลอง `sbyte`<br>
 ![](./images/Slide44.png)
 
 
