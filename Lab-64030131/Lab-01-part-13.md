@@ -59,45 +59,45 @@ Maximum Value :2147483647
 Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
----ผลการทดลอง `char`
+---ผลการทดลอง `char`<br>
 ![](./images/Slide33.png)
 
----ผลการทดลอง `byte`
+---ผลการทดลอง `byte`<br>
 ![](./images/Slide34.png)
 
----ผลการทดลอง `short`
+---ผลการทดลอง `short`<br>
 ![](./images/Slide35.png)
  
 
----ผลการทดลอง `ushort`
+---ผลการทดลอง `ushort`<br>
 ![](./images/Slide36.png)
 
  
 
----ผลการทดลอง `uint`
+---ผลการทดลอง `uint`<br>
 ![](./images/Slide37.png)
 
  
 
----ผลการทดลอง `float`
+---ผลการทดลอง `float`<br>
 ![](./images/Slide38.png)
  
 
----ผลการทดลอง `double`
+---ผลการทดลอง `double`<br>
 ![](./images/Slide39.png)
  
----ผลการทดลอง `decimal`
+---ผลการทดลอง `decimal`<br>
 ![](./images/Slide40.png)
  
----ผลการทดลอง `long`
+---ผลการทดลอง `long`<br>
 ![](./images/Slide41.png)
 
 
----ผลการทดลอง `ulong`
+---ผลการทดลอง `ulong`<br>
 ![](./images/Slide42.png)
 
 
----ผลการทดลอง `bool`
+---ผลการทดลอง `bool`<br>
 ![](./images/Slide43.png)
 
 ---ผลการทดลอง `sbyte`

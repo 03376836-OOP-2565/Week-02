@@ -9,7 +9,7 @@ Console.WriteLine("{0:F3}", i);
 Console.WriteLine("{0:F4}", i);
 Console.WriteLine("{0:F5}", i);
 ```
-➢ รันโปรแกรมและบันทึกผล
+➢ รันโปรแกรมและบันทึกผล<br>
 ![](./images/Slide11.png)
 
 ## ❔ แบบฝึกหัด จงรันโปรแกรมและบันทึกภาพ output ของบรรทัดคำสั่งต่อไปนี้

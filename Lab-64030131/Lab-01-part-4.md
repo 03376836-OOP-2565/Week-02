@@ -10,7 +10,7 @@ Console.WriteLine("This is text 2.");
 Console.WriteLine("This is text 3.");
 ```
 
-➢ รันโปรแกรมและบันทึกผล
+➢ รันโปรแกรมและบันทึกผล<br>
 ![](./images/Slide5.png)
 
 ถ้าหากต้องการให้แก้ไขค่าตัวแปรที่จะแสดงออกทาง console เราก็อาจจะใช้ป้ายกำกับสำหรับรับค่าออกไปแสดงที่ output เรียกว่า place holder
@@ -23,7 +23,7 @@ Console.WriteLine("This is text 3.");
 Console.WriteLine(" {0} and {1}", 3, 6);
 ```
 
-➢ รันโปรแกรมและบันทึกผล
+➢ รันโปรแกรมและบันทึกผล<br>
 ![](./images/Slide6.png)
 
 
@@ -38,7 +38,7 @@ Console.WriteLine(" {0} and {1}", 3, 6);
 Console.WriteLine("{1}, {0} and {1}", 3, 6);
 ```
 
-➢ รันโปรแกรมและบันทึกผล
+➢ รันโปรแกรมและบันทึกผล<br>
 ![](./images/Slide7.png)
 
  
