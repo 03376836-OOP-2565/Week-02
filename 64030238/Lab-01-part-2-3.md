@@ -34,7 +34,9 @@ Console.Write("Hello" + Environment.NewLine);
 ![LAB2.2](./Images/Lab2_2.png)
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
-
+```
+เป็นไปอย่างที่คิดแสงข้อความ Hello คนละบรรทัด
+```
 
 ## 3. เมดธอด Console.WriteLine()
 
@@ -59,9 +61,13 @@ Console.WriteLine("World!");
 ➢ รันโปรแกรมและบันทึกผล
 ![LAB3.1](./Images/Lab3_1.png)
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
-
-
+```
+ไม่เป็นเหมือนที่คิดไว้ Console.Write("Hello, ");
+Console.WriteLine("World!"); จะแสดงผลบรรทัดเดียวกันจะต่อประโยคช่องว่าง
+```
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
-
-
+```
+Console.Write() เมื่อเขียน Input Output จะเขียนบรรทัดเดียวกัน
+Console.WriteLine เมื่อเขียน Input หรือแสดง Output จะอยู่บรรทัดถัดไป
+```
 ## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md)
