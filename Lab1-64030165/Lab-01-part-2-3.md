@@ -51,12 +51,13 @@ Console.Write("Hello, ");
 Console.WriteLine("World!");
 ```
 
-➢ รันโปรแกรมและบันทึกผล
-
+➢ รันโปรแกรมและบันทึกผล<br>
+![](./Picture/Slide4.PNG)
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 
 
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
+- Console.write() จะทำการเขียนไปเรื่อยๆไม่เว้นบรรทัด แต่ Console.WriteLine() จะทำการเว้นบรรทัดให้
 
 
 ## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md)
