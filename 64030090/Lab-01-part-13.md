@@ -140,15 +140,4 @@ Console.WriteLine(randomNumber);
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
 
-![image](https://user-images.githubusercontent.com/115066356/213761221-e12b78d5-5e67-4d47-bf29-2e469de9b51f.png)
-![image](https://user-images.githubusercontent.com/115066356/213761298-a517fa9e-9fbf-4892-87ea-b8b380b247bd.png)
-![image](https://user-images.githubusercontent.com/115066356/213761360-84c6fbd4-a7cb-4f80-980e-25cdd5197cb0.png)
-![image](https://user-images.githubusercontent.com/115066356/213761428-dc5678dd-af8d-40ec-a890-5520ac3c7f5e.png)
-![image](https://user-images.githubusercontent.com/115066356/213761499-94b23241-5a03-4b3a-8fe7-ff649976c5f9.png)
-![image](https://user-images.githubusercontent.com/115066356/213761626-b8d33634-c448-4915-99dd-c8049cebdb73.png)
-![image](https://user-images.githubusercontent.com/115066356/213761729-eca02e3d-8b24-479f-a554-c77696838adc.png)
-![image](https://user-images.githubusercontent.com/115066356/213761810-63bb87f2-d00c-4be6-b77e-83cdb551ab30.png)
-![image](https://user-images.githubusercontent.com/115066356/213761881-c64156e3-47ae-409d-a940-bcf573435e91.png)
-![image](https://user-images.githubusercontent.com/115066356/213761928-d6c37e23-089a-49c8-a5b1-36e7144265bf.png)
-
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
