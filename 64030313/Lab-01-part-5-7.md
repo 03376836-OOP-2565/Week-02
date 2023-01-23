@@ -72,6 +72,6 @@ Console.WriteLine("{0, 20:X}", 1);
 ```
 
 ➢   รันโปรแกรมและบันทึกผล
-
+![image](https://user-images.githubusercontent.com/115037574/213534223-f09ba66b-2ccc-49e6-a488-0f79a639fb25.png)
  
 ## [Part 8  การกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์](./Lab-01-part-8.md)
