@@ -6,17 +6,17 @@
 | ชื่อตัวแปร | ใช้ได้/ไม่ได้ | เหตุผล|
 |--|--|--|
 | `xxx`     | ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
-| `null` | | |
-| `_value` | | |
-| `First-name`| | |
-| `Hello!` | | |
-| `w*h` | | |
-| `time` | | |
-| `do` | | |
-| `Do` | | |
-| `21November`| | |
-| `ladkrabang`| | |
-| `Student ID`| | |
+| `null` |ใช้ไม่ได้    |เป็นคำสงวนในภาษา C# |
+| `_value` |ใช้ได้|ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ  |
+| `First-name`|ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด |
+| `Hello!` |ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด |
+| `w*h` |ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด  |
+| `time` |ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `do` |ใช้ไม่ได้    |เป็นคำสงวนในภาษา C# |
+| `Do` |ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `21November`|ใช้ไม่ได้    |ละเมิดกฎการตั้งชื่อ |
+| `ladkrabang`|ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `Student ID`|ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
 
 
 ---ผลการทดลอง
@@ -59,37 +59,29 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
-
+![image](https://user-images.githubusercontent.com/115037574/213912501-a1946347-d2c9-4ed5-9427-2a37a4e3f3aa.png)
 ---ผลการทดลอง `byte`
-
+![image](https://user-images.githubusercontent.com/115037574/213912553-98ac95d5-7b9b-4b11-a033-ec0cce69eb75.png)
 ---ผลการทดลอง `short`
- 
-
+![image](https://user-images.githubusercontent.com/115037574/213912593-15723892-ac19-47cc-96cc-dbf363d8eca8.png)
 ---ผลการทดลอง `ushort`
-
- 
-
+![image](https://user-images.githubusercontent.com/115037574/213912623-5962f979-229e-4f16-832e-fbef9d85e88f.png)
 ---ผลการทดลอง `uint`
-
- 
-
+![image](https://user-images.githubusercontent.com/115037574/213912737-333ee378-55d6-46b7-b159-2cb58cff4ccc.png)
 ---ผลการทดลอง `float`
- 
-
+ ![image](https://user-images.githubusercontent.com/115037574/213912768-61da2e81-bdc5-45b1-971d-1686831a2cdb.png)
 ---ผลการทดลอง `double`
- 
+ ![image](https://user-images.githubusercontent.com/115037574/213912799-846650b3-1594-43cf-b0e0-6ce06222e5f3.png)
 ---ผลการทดลอง `decimal`
- 
+ ![image](https://user-images.githubusercontent.com/115037574/213912833-6e689926-b546-417d-9e2a-d0ef6b10e1de.png)
 ---ผลการทดลอง `long`
-
-
+![image](https://user-images.githubusercontent.com/115037574/213912882-248f45cb-0caa-4798-88c7-5a7ee2b2c5c6.png)
 ---ผลการทดลอง `ulong`
-
-
+![image](https://user-images.githubusercontent.com/115037574/213912918-13c563f4-7bca-459f-9dac-76eb910ee295.png)
 ---ผลการทดลอง `bool`
-
+![image](https://user-images.githubusercontent.com/115037574/213913131-95669f2e-4e8c-43f3-8762-ec0558416f12.png)
 ---ผลการทดลอง `sbyte`
-
+![image](https://user-images.githubusercontent.com/115037574/213913164-8c9a5735-3248-4e3a-82b4-f194b8613fd4.png)
 
 ## การใช้งานข้อมูลชนิดต่างๆ
 
@@ -125,5 +117,26 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+## 1
+![image](https://user-images.githubusercontent.com/115037574/213913211-9819c8ae-3e98-4740-bc5c-1cd4fe81dbbf.png)
+## 2
+![image](https://user-images.githubusercontent.com/115037574/213913217-44806052-d5d2-423e-88dd-bdc055130d41.png)
+## 3
+![image](https://user-images.githubusercontent.com/115037574/213913223-fa242655-1fd6-40ee-bd25-f43c023c90be.png)
+## 4
+![image](https://user-images.githubusercontent.com/115037574/213913230-a16af63d-6ac7-4db3-a5df-b8e2e3964a06.png)
+## 5
+![image](https://user-images.githubusercontent.com/115037574/213913235-94139178-9914-48a5-b69c-50e52b7396c5.png)
+## 6
+![image](https://user-images.githubusercontent.com/115037574/213913239-da6fa3ee-ac95-413f-aed9-9b58a12ad816.png)
+## 7 
+![image](https://user-images.githubusercontent.com/115037574/213913244-1a0d3519-6447-4c73-b572-e4ad4c171ef9.png)
+## 8
+![image](https://user-images.githubusercontent.com/115037574/213913249-6aaa5ccd-7f8e-46a0-8f5f-714fa0ec7309.png)
+## 9
+![image](https://user-images.githubusercontent.com/115037574/213913255-f69871b6-b622-4774-90e4-0a33701f90b3.png)
+## 10
+![image](https://user-images.githubusercontent.com/115037574/213913262-b542f8be-b4a2-4fc2-85a6-ab1041037a74.png)
+
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
