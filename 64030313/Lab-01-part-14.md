@@ -65,16 +65,21 @@ Console.WriteLine("-----------------------");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-
+![image](https://user-images.githubusercontent.com/115037574/213913356-e18f4589-8acb-44f4-aae9-e7a8456e9709.png)
  
 👷 จากจ้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
 1. `AND`
+![image](https://user-images.githubusercontent.com/115037574/213913356-e18f4589-8acb-44f4-aae9-e7a8456e9709.png)
 2. `OR`
+![image](https://user-images.githubusercontent.com/115037574/213913455-669e3394-e9ee-4416-b48a-99bf499d5f0b.png)
 3. `NOT`
+![image](https://user-images.githubusercontent.com/115037574/213913587-8afd3494-759a-460d-8a86-ff75e6ebafc2.png)
 4. `NAND`
+![image](https://user-images.githubusercontent.com/115037574/213913749-07263391-52a2-4a4e-8353-feba510e7a68.png)
 5. `NOR`
+![image](https://user-images.githubusercontent.com/115037574/213913910-003bbca8-4069-4a23-9786-47688a6b68d5.png)
 6. `Exclusive OR`
-
+![image](https://user-images.githubusercontent.com/115037574/213913987-b64aefe1-8952-4734-bdab-0187515bcd75.png)
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
