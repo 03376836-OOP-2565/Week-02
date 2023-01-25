@@ -11,7 +11,7 @@ Console.Write("Hello");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-![ภาพ](https://user-images.githubusercontent.com/115066278/214580852-9651051b-171b-413a-b261-bdec4e6863f9.png)
+![ภาพ](https://user-images.githubusercontent.com/115066278/214580952-8cdbec58-6957-4a30-84fd-bb15a3e438e1.png)
 
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
