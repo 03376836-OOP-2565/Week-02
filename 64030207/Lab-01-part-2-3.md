@@ -11,6 +11,7 @@ Console.Write("Hello");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/214580952-8cdbec58-6957-4a30-84fd-bb15a3e438e1.png)
 
 
@@ -28,6 +29,7 @@ Console.Write("Hello" + Environment.NewLine);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/214581048-ee3a70d3-66f7-4642-b1c1-43ebbe4c92c0.png)
 
 
