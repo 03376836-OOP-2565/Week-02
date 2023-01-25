@@ -67,6 +67,9 @@ Console.WriteLine("World!");
 ส่วน Console.WriteLine เป็นคำสั่งที่ให้แสดงข้อความก่อนค่อยขึ้นบรรทัดใหม่
 ```
 ❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
+```
+Console.Write จะแสดงข้อความอย่างเดียวถ้าจะให้ขึ้นบรรทัดใหม่ต้องใช่ Environment.NewLine หรือ \n
+Console.WriteLine จะให้แสดงข้อความแล้วค่อยขึ้นบรรทัดใหม่ ถ้ามีคำสั่งถัดไป
 
 
 ## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md)
