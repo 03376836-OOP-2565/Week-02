@@ -70,6 +70,6 @@ Console.WriteLine("World!");
 ```
 Console.Write จะแสดงข้อความอย่างเดียวถ้าจะให้ขึ้นบรรทัดใหม่ต้องใช่ Environment.NewLine หรือ \n
 Console.WriteLine จะให้แสดงข้อความแล้วค่อยขึ้นบรรทัดใหม่ ถ้ามีคำสั่งถัดไป
+```
 
-
-## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](.Lab-01-part-4.md))
+## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md))
