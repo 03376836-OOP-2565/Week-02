@@ -28,6 +28,7 @@ Console.Write("Hello" + Environment.NewLine);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![ภาพ](https://user-images.githubusercontent.com/115066278/214581048-ee3a70d3-66f7-4642-b1c1-43ebbe4c92c0.png)
 
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
