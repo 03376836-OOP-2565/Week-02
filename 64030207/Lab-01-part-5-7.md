@@ -43,6 +43,7 @@ Console.WriteLine("{0, 0:X}", n);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217512342-827ffe1a-9b8d-4130-a5bb-8d5aa930d4bd.png)
 
 ❔  การกำหนดตัวอักษร E, F, G, N, P, X หมายถึงให้พิมพ์ออกมาเป็นอะไร
@@ -64,6 +65,7 @@ Console.WriteLine("{0, 20:X}", 1);
 ```
 
 ➢   รันโปรแกรมและบันทึกผล
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217512380-e4f33b55-6cfe-4cb6-a58e-14453377907b.png)
 
  
