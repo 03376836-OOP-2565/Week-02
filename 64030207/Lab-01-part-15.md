@@ -25,7 +25,7 @@ Console.WriteLine("f={0}", f);
 
 ➢ รันโปรแกรมและบันทึกผล
 
-
+![ภาพ](https://user-images.githubusercontent.com/115066278/217520635-868c16df-e63d-442e-b20c-ca677b458cc8.png)
 
 
 ## 16. หาค่าจากสมการทางคณิตศาสตร์
@@ -43,6 +43,8 @@ Console.WriteLine("f={0}", f);
 8. `9/2*a`
 9. `y%8`
 10. `100*x+y%2-a`
+
+![ภาพ](https://user-images.githubusercontent.com/115066278/217520667-56df4e2e-9615-46c5-907a-d1cf39d59ddf.png)
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
@@ -73,6 +75,8 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![ภาพ](https://user-images.githubusercontent.com/115066278/217520727-6d4c6e73-0480-4a76-9d91-7fced9b260f6.png)
+
 
 
 
@@ -81,14 +85,14 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 | ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
 |---|---|---|---|
-| Mercury | 57,910,000 km | |
-| Venus | 108,200,000 km | |
-| Earth | 149,600,000 km | |
-| Mars | 227,940,000 km | |
-| Jupiter |  778,330,000 km | |
-| Uranus | 2,873,550,000 km | |
-| Neptune | 4,501,000,000 km | |
-| Pluto | 5,945,900,000 km | |
+| Mercury | 57,910,000 km | 35,983,606 mile |5.2 minutes |
+| Venus | 108,200,000 km | 67,232,363 mile | 9.7 minutes |
+| Earth | 149,600,000 km | 92,957,130 mile | 13.4 minutes |
+| Mars | 227,940,000 km | 141,635,350 mile | 20.4 minutes |
+| Jupiter |  778,330,000 km | 483,631,840 mile | 69.7 minutes |
+| Uranus | 2,873,550,000 km | 1,785,541,189 mile | 257.4 minutes |
+| Neptune | 4,501,000,000 km | 2,796,791,736 mile | 403.3 minutes |
+| Pluto | 5,945,900,000 km | 3,694,610,971 mile |532.7 minutes |
 
 
 
@@ -114,5 +118,7 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล
+
+![ภาพ](https://user-images.githubusercontent.com/115066278/217520756-d83ba3e1-b694-44b0-855b-5625e58f72b7.png)
 
   
