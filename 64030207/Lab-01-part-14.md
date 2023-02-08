@@ -70,21 +70,27 @@ Console.WriteLine("-----------------------");
 👷 จากจ้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
 1. `AND`
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217519244-44b9157e-9f3c-4ddc-958d-52a0919e5a73.png)
 
 2. `OR`
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217519281-3322e200-85d5-4c24-9b0a-3de2bb01960a.png)
 
 3. `NOT`
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217519304-82ec086c-6c56-4c1f-b776-1ba97b9aa71f.png)
 
 4. `NAND`
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217519344-b918e77e-6594-4fb6-b0e6-0efd980bc5ae.png)
 
 5. `NOR`
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217520083-7ba0f875-d9f4-4650-b856-6576dc73078c.png)
 
 6. `Exclusive OR`
+
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217520296-d05ce023-13e0-41cb-9505-757f3821dfd3.png)
 
 
