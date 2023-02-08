@@ -87,4 +87,5 @@ Console.WriteLine("-----------------------");
 6. `Exclusive OR`
 ![ภาพ](https://user-images.githubusercontent.com/115066278/217520296-d05ce023-13e0-41cb-9505-757f3821dfd3.png)
 
+
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
