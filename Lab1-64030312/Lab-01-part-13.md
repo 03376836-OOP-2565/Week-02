@@ -19,7 +19,8 @@
 | `Student ID`| | |
 
 
----ผลการทดลอง
+---ผลการทดลอง<br>
+![](./image/32.png)
 
 
 ## ชนิดข้อมูลภายในภาษา C\#
@@ -58,38 +59,39 @@ Maximum Value :2147483647
 Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
----ผลการทดลอง `char`
+---ผลการทดลอง `char`<br>
+![](./image/33.png)
 
----ผลการทดลอง `byte`
+---ผลการทดลอง `byte`<br>
+![](./image/034.png)
+---ผลการทดลอง `short`<br>
+![](./image/035.png)
 
----ผลการทดลอง `short`
+---ผลการทดลอง `ushort`<br>
+![](./image/036.png)
  
 
----ผลการทดลอง `ushort`
-
+---ผลการทดลอง `uint`<br>
+![](./image/037.png)
  
 
----ผลการทดลอง `uint`
+---ผลการทดลอง `float`<br>
+![](./image/038.png)
 
- 
+---ผลการทดลอง `double`<br>
+![](./image/039.png)
+---ผลการทดลอง `decimal`<br>
+![](./image/040.png)
+---ผลการทดลอง `long`<br>
+![](./image/041.png)
 
----ผลการทดลอง `float`
- 
+---ผลการทดลอง `ulong`<br>
+![](./image/042.png)
 
----ผลการทดลอง `double`
- 
----ผลการทดลอง `decimal`
- 
----ผลการทดลอง `long`
-
-
----ผลการทดลอง `ulong`
-
-
----ผลการทดลอง `bool`
-
----ผลการทดลอง `sbyte`
-
+---ผลการทดลอง `bool`<br>
+![](./image/043.png)
+---ผลการทดลอง `sbyte`<br>
+![](./image/044.png)
 
 ## การใช้งานข้อมูลชนิดต่างๆ
 
