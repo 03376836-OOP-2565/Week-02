@@ -57,7 +57,9 @@ Console.WriteLine("World!");
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 
 
-❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
+❔ จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()<br>
+console.Write() เป็นการเขียนโดยต่อบรรทัดเดิม
+console.Writeline() เป็นการเขียนโดยเริ่มต้นบรรทัดใหม่
 
 
 ## [4. จำนวนของอาร์กิวเมนต์ในคำสั่ง Console.WriteLine()](./Lab-01-part-4.md)
