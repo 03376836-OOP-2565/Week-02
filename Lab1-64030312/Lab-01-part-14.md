@@ -83,4 +83,5 @@ Console.WriteLine("-----------------------");
 ![](./image/050.png)
 
 
+
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
