@@ -80,4 +80,5 @@ Console.WriteLine("{0:F5}", i);
 ![](./image/026.png)
 
 
+
 ## [การใช้งานคำสั่ง Console.Read() และ Console.ReadLine()](./Lab-01-part-9-12.md)
