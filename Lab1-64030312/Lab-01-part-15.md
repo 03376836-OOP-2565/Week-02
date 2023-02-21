@@ -116,4 +116,5 @@ string spaces(double val)
 
 ➢ รันโปรแกรมและบันทึกผล<br>
 ![](./image/054.png)
+
   
