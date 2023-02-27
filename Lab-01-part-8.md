@@ -18,7 +18,8 @@ Console.WriteLine("{0:F5}", i);
 ``` csharp
 1. string name = "Hello";
     Console.WriteLine(String.Format("{0} there. I said {0}! {0}???", name));
-  ```![334064258_1885794838446876_8400287826234085367_n](https://user-images.githubusercontent.com/116150897/221619004-9d5c03dd-e26f-4aa0-95ec-ebf612c80687.png)
+  ```![334064258_1885794838446876_8400287826234085367_n](https://user-images.githubusercontent.com/116150897/221620048-1b6b2e77-d3e1-405e-9152-4cddef68e742.png)
+
 
 ``` csharp
 2. Console.WriteLine("{2:d} {0:d} {1:d}", 1, 2, 3);
@@ -42,7 +43,7 @@ Console.WriteLine("{0:F5}", i);
 
 ``` csharp
 7. Console.WriteLine("The value: {0}.", 500);
-```![334043113_103486869353894_5825242084092370767_n](https://user-images.githubusercontent.com/116150897/221619384-54bddc6b-b071-41b0-b500-65ed421518a1.png)
+``` [334043113_103486869353894_5825242084092370767_n](https://user-images.githubusercontent.com/116150897/221619384-54bddc6b-b071-41b0-b500-65ed421518a1.png)
 
 
 ``` csharp
