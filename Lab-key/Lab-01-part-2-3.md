@@ -16,6 +16,11 @@ Console.Write("Hello");
 
 จากรูป โปรแกรมสามารถรันได้ เหก่ดวสฟกหา่เวกฟเาส
 
+```
+
+![image](https://user-images.githubusercontent.com/115067806/221778528-60696e27-77fb-4481-badd-ea03b8a49cd7.png)
+
+
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 
 ### 2.2 การใช้เมดธอด Console.Write() ร่วมกับ  `Environment.NewLine`
