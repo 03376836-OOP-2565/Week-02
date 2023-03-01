@@ -25,6 +25,7 @@ Console.WriteLine("f={0}", f);
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://user-images.githubusercontent.com/116150897/222130967-2ebf4c65-95b6-4e21-9cda-4fb8153c3b7a.png)
 
 
 
@@ -72,6 +73,7 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/116150897/222131752-7a926319-92b2-43fd-805c-9b1c7f961c8a.png)
 
 
 
@@ -114,5 +116,6 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/116150897/222131899-cd6cf799-7511-432f-bafb-664135855735.png)
 
   
