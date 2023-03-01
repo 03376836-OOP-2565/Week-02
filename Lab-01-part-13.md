@@ -6,17 +6,17 @@
 | ชื่อตัวแปร | ใช้ได้/ไม่ได้ | เหตุผล|
 |--|--|--|
 | `xxx`     | ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
-| `null` | | |
-| `_value` | | |
-| `First-name`| | |
-| `Hello!` | | |
-| `w*h` | | |
-| `time` | | |
-| `do` | | |
-| `Do` | | |
-| `21November`| | |
-| `ladkrabang`| | |
-| `Student ID`| | |
+| `null` | | | ไม่ได้ | เพราะค่า null อาจถูกตีความได้ว่ายังไม่ได้กำหนดค่า
+| `_value` | | |  ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `First-name`| | |ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `Hello!` | | |ไม่ได้ | มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `w*h` | | |ไม่ได้ | มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `time` | | ||ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `do` | | ||ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `Do` | | ||ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `21November`| | ||ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `ladkrabang`| | ||ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `Student ID`| | ||ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
 
 
 ---ผลการทดลอง
@@ -125,5 +125,15 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+![image](https://user-images.githubusercontent.com/116150897/222127654-a107c97f-edc0-464c-982c-0704feda90cb.png)
+![image](https://user-images.githubusercontent.com/116150897/222127715-f106aee3-dcf3-459f-883f-513a49e2241c.png)
+![image](https://user-images.githubusercontent.com/116150897/222127789-5c2279d5-a174-4e25-a4bd-a1d31b24b48e.png)
+![image](https://user-images.githubusercontent.com/116150897/222127857-12b392b9-9a7b-404d-b147-581d8ff353d0.png)
+![image](https://user-images.githubusercontent.com/116150897/222127912-d8bbd2d9-9106-442c-be3f-5af9c25a6dda.png)
+![image](https://user-images.githubusercontent.com/116150897/222127964-dcbe78eb-613c-429c-9d41-b935a9196083.png)
+![image](https://user-images.githubusercontent.com/116150897/222128025-3d2ec696-ff2c-4be8-a803-cfdcef7f3554.png)
+![image](https://user-images.githubusercontent.com/116150897/222128078-b45e1701-27e0-4698-9672-2a7f56baf630.png)
+![image](https://user-images.githubusercontent.com/116150897/222128168-b450fcaa-4100-49f9-8c81-723c8bf8318e.png)
+![image](https://user-images.githubusercontent.com/116150897/222128234-da625747-bb9c-4e7d-b0eb-b01b16065ca4.png)
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
