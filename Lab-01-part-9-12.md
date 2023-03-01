@@ -95,4 +95,6 @@ catch (Exception e)
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://user-images.githubusercontent.com/116150897/222122641-a8e877ab-f51d-4aa8-81b4-8346380d169a.png)
+
 ## [การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#](./Lab-01-part-13.md)
