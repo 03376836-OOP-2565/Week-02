@@ -24,7 +24,8 @@ Console.WriteLine("f={0}", f);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล<br>
-![](./Lab1-64030312/image/051.png)
+![image](https://user-images.githubusercontent.com/115066298/226601045-5d3c5ce3-ce48-4b1b-90b3-5648912da7b7.png)
+
 
 
 
@@ -43,7 +44,8 @@ Console.WriteLine("f={0}", f);
 8. `9/2*a`
 9. `y%8`
 10. `100*x+y%2-a`<br>
-![](./Lab1-64030312/image/052.png)
+![image](https://user-images.githubusercontent.com/115066298/226601109-218ffded-e95a-4bb0-bdcb-db13ee9d06df.png)
+
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
@@ -73,7 +75,8 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 ```
 
 ➢ รันโปรแกรมและบันทึกผล<br>
-![](./Lab1-64030312/image/052.png)
+![image](https://user-images.githubusercontent.com/115066298/226601169-b9bc6a97-646e-48f6-90de-9589f06268b6.png)
+
 
 
 
@@ -115,6 +118,7 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล<br>
-![](./Lab1-64030312/image/053.png)
+![image](https://user-images.githubusercontent.com/115066298/226601243-ea19ae78-7285-4d85-8864-e70275a43029.png)
+
 
   
