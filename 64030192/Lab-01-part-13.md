@@ -20,7 +20,8 @@
 
 
 ---ผลการทดลอง<br>
-![](./Lab1-64030312/image/32.png)
+![image](https://user-images.githubusercontent.com/115066298/226599452-e7390211-6b97-43fa-b7b3-9b853acd63f2.png)
+
 
 
 ## ชนิดข้อมูลภายในภาษา C\#
@@ -60,48 +61,60 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`<br>
-![](./Lab1-64030312/image/33.png)
+![image](https://user-images.githubusercontent.com/115066298/226599548-6eb2540d-b0d4-4bb0-9a74-e277ca316d51.png)
+
 
 ---ผลการทดลอง `byte`<br>
-![](./Lab1-64030312/image/034.png)
+![image](https://user-images.githubusercontent.com/115066298/226599597-bb9cf65e-2d62-4e52-97af-b3f28f8548ba.png)
+
 
 ---ผลการทดลอง `short`<br>
-![](./Lab1-64030312/image/035.png)
+![image](https://user-images.githubusercontent.com/115066298/226599677-56372329-e1f1-4b7f-aa10-46069d7b25fd.png)
+
  
 
 ---ผลการทดลอง `ushort`<br>
-![](./Lab1-64030312/image/036.png)
+![image](https://user-images.githubusercontent.com/115066298/226599758-55dadc22-54af-455e-b341-5604960afca5.png)
+
 
  
 
 ---ผลการทดลอง `uint`<br>
-![](./Lab1-64030312/image/037.png)
+![image](https://user-images.githubusercontent.com/115066298/226599817-0cc4e692-92ae-4398-af71-85fcd63d4c61.png)
+
 
  
 
 ---ผลการทดลอง `float`<br>
-![](./Lab1-64030312/image/038.png)
+![image](https://user-images.githubusercontent.com/115066298/226599868-4b84fe70-54ef-4d5f-a25b-28512a9c3a84.png)
+
  
 
 ---ผลการทดลอง `double`<br>
-![](./Lab1-64030312/image/039.png)
+![image](https://user-images.githubusercontent.com/115066298/226599913-68d20510-fcd4-4bd8-a6ed-5ad1961dc50a.png)
+
  
 ---ผลการทดลอง `decimal`<br>
-![](./Lab1-64030312/image/040.png)
+![image](https://user-images.githubusercontent.com/115066298/226599979-10c5c6ba-03cf-47e6-a4e7-42bf7eb7a580.png)
+
  
 ---ผลการทดลอง `long`<br>
-![](./Lab1-64030312/image/041.png)
+![image](https://user-images.githubusercontent.com/115066298/226600028-1f4dd37d-9b3d-4947-a1aa-a6a4e42a0a59.png)
+
 
 
 ---ผลการทดลอง `ulong`<br>
-![](./Lab1-64030312/image/042.png)
+![image](https://user-images.githubusercontent.com/115066298/226600076-34713024-82f2-4323-94b3-422748053dab.png)
+
 
 
 ---ผลการทดลอง `bool`<br>
-![](./Lab1-64030312/image/043.png)
+![image](https://user-images.githubusercontent.com/115066298/226600131-39a5543f-cf2f-4781-8cf5-673955fb3280.png)
+
 
 ---ผลการทดลอง `sbyte`<br>
-![](./Lab1-64030312/image/044.png)
+![image](https://user-images.githubusercontent.com/115066298/226600188-6c38caf8-3aea-4cd9-9509-fbabd76d20c9.png)
+
 
 
 ## การใช้งานข้อมูลชนิดต่างๆ
