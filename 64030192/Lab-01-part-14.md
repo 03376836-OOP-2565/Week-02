@@ -65,22 +65,28 @@ Console.WriteLine("-----------------------");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล<br>
-![](./Lab1-64030312/image/045.png)
+![image](https://user-images.githubusercontent.com/115066298/226600421-58716246-cbd5-4716-a11f-48e1c689d0ab.png)
+
  
 👷 จากจ้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
 1. `AND`<br>
-![](./Lab1-64030312/image/045.png)
+![image](https://user-images.githubusercontent.com/115066298/226600477-d48ea7c7-bd3e-4b55-96c9-3add92de3c44.png)
+
 2. `OR`<br>
-![](./Lab1-64030312/image/046.png)
+![image](https://user-images.githubusercontent.com/115066298/226600518-2917e0f8-6096-4696-8e54-e453d51ca531.png)
+
 3. `NOT`<br>
-![](./Lab1-64030312/image/047.png)
+![image](https://user-images.githubusercontent.com/115066298/226600559-8996e2bb-c168-4426-9b34-cb5b6d949e3c.png)
+
 4. `NAND`<br>
-![](./Lab1-64030312/image/048.png)
+![image](https://user-images.githubusercontent.com/115066298/226600612-5afb6c62-5190-445f-80b2-e5246bc72604.png)
+
 5. `NOR`<br>
-![](./Lab1-64030312/image/049.png)
+![image](https://user-images.githubusercontent.com/115066298/226600671-ba1c7ae7-65ab-4678-ba84-436c878def6a.png)
+
 6. `Exclusive OR`<br>
-![](./Lab1-64030312/image/050.png)
+![image](https://user-images.githubusercontent.com/115066298/226600705-4098f72a-e1a1-4dc9-b0a6-f1159d8ec4d3.png)
 
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
