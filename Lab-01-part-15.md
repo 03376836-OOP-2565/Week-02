@@ -25,6 +25,7 @@ Console.WriteLine("f={0}", f);
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![Screenshot 2023-04-09 171904](https://user-images.githubusercontent.com/115066186/230767476-2711ca13-2587-44b4-a899-e1d6010f0d84.png)
 
 
 
@@ -45,6 +46,7 @@ Console.WriteLine("f={0}", f);
 10. `100*x+y%2-a`
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
+![Screenshot 2023-04-09 171904](https://user-images.githubusercontent.com/115066186/230767492-e2e4adc8-2598-4aad-86ff-ed4908169b78.png)
 
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
@@ -73,6 +75,7 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![Screenshot 2023-04-09 172107](https://user-images.githubusercontent.com/115066186/230767518-044f862e-8542-4256-9644-1993f2cca0c4.png)
 
 
 
@@ -90,6 +93,7 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 | Neptune | 4,501,000,000 km | |
 | Pluto | 5,945,900,000 km | |
 
+![Screenshot 2023-04-09 172512](https://user-images.githubusercontent.com/115066186/230767520-c2a1fa22-6043-4efd-b489-c161450242d9.png)
 
 
  คลาส Math ในภาษา C# มีคลาสที่เป็นตัวช่วยคำนวณทางคณิตศาสตร์ ที่ช่วยให้เราสามารถคำนวณฟังก์ชันพื้นฐานได้ อย่างรวดเร็ว ไม่ต้องพัฒนาโปรแกรมเพิ่มเติมด้วยเอง นั่นคือคลาส Math ฟังก์ชันทางคณิตศาสตร์ที่ใช้บ่อยๆ สามารถดูรายละเอียดทั้งหมดได้จาก `system.math`
@@ -114,5 +118,6 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล
+![Screenshot 2023-04-09 172542](https://user-images.githubusercontent.com/115066186/230767528-29e89be5-f32c-4d67-ab98-3de7451eaee1.png)
 
   
