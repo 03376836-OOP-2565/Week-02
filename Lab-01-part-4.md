@@ -11,6 +11,7 @@ Console.WriteLine("This is text 3.");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![Screenshot 2023-04-09 160342](https://user-images.githubusercontent.com/115066186/230764380-7c815d1c-df82-423e-a607-5a1f4dee5c9d.png)
 
 
 ถ้าหากต้องการให้แก้ไขค่าตัวแปรที่จะแสดงออกทาง console เราก็อาจจะใช้ป้ายกำกับสำหรับรับค่าออกไปแสดงที่ output เรียกว่า place holder
@@ -24,6 +25,7 @@ Console.WriteLine(" {0} and {1}", 3, 6);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![Screenshot 2023-04-09 160432](https://user-images.githubusercontent.com/115066186/230764396-9373dc78-c842-46c2-80e8-b75e35c89b29.png)
 
 
 ❔ ถ้ามีการใช้ตัวเลขใน { } ที่กระโดด เช่น {0} {2} {3} จะใช้งานได้หรือไม่ อย่างไร จงอธิบาย
@@ -36,6 +38,7 @@ Console.WriteLine("{1}, {0} and {1}", 3, 6);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![Screenshot 2023-04-09 160553](https://user-images.githubusercontent.com/115066186/230764402-e032c5cb-af17-45bd-b0ad-9a3b9611e3e9.png)
 
  
 ## [5. การกำหนดความกว้างของอาร์กิวเมนต์](./Lab-01-part-5-7.md)
