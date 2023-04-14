@@ -77,7 +77,8 @@ Console.WriteLine("{0:F5}", i);
 
 ``` csharp
 15. Console.WriteLine("{0:#.###}.", 1234.56789);
-```![Uploading image.png…]()
+```![image](https://user-images.githubusercontent.com/115066285/232033086-2b2def80-010c-433b-84df-1542df3e8054.png)
+
 
 
 
