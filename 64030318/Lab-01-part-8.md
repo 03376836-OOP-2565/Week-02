@@ -10,6 +10,7 @@ Console.WriteLine("{0:F4}", i);
 Console.WriteLine("{0:F5}", i);
 ```
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/116150760/232725285-7f17dc99-3f15-4aff-b4ea-97dad4411b86.png)
 
 
 ## ❔ แบบฝึกหัด จงรันโปรแกรมและบันทึกภาพ output ของบรรทัดคำสั่งต่อไปนี้
@@ -18,6 +19,8 @@ Console.WriteLine("{0:F5}", i);
 1. string name = "Hello";
     Console.WriteLine(String.Format("{0} there. I said {0}! {0}???", name));
 ```
+![image](https://user-images.githubusercontent.com/116150760/232725543-d932289b-f5ab-4fb1-a248-9b44d3a3b670.png)
+
 ``` csharp
 2. Console.WriteLine("{2:d} {0:d} {1:d}", 1, 2, 3);
 ```
