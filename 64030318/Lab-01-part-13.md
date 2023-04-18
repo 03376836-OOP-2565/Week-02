@@ -20,6 +20,7 @@
 
 
 ---ผลการทดลอง
+![image](https://user-images.githubusercontent.com/116150760/232765025-f51e5df2-5d4b-4e0d-bff0-35a857475d88.png)
 
 
 ## ชนิดข้อมูลภายในภาษา C\#
@@ -59,36 +60,48 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
+![image](https://user-images.githubusercontent.com/116150760/232765945-d209eb14-c322-4c31-ba6c-4247d8d5cd49.png)
 
 ---ผลการทดลอง `byte`
+![image](https://user-images.githubusercontent.com/116150760/232766129-5a3ea4ee-5ea6-4dfb-9939-106ed87dc7b8.png)
 
 ---ผลการทดลอง `short`
  
+![image](https://user-images.githubusercontent.com/116150760/232766429-e8ca792c-718a-4116-8abc-1b9d6a0a4d44.png)
+
 
 ---ผลการทดลอง `ushort`
 
- 
+ ![image](https://user-images.githubusercontent.com/116150760/232766627-9ed33652-3c4f-4ae0-bdb7-f21e1b3b0de6.png)
 
 ---ผลการทดลอง `uint`
+![image](https://user-images.githubusercontent.com/116150760/232767054-8cc58106-cbcc-4729-bcd1-c68460c5a78a.png)
 
  
 
 ---ผลการทดลอง `float`
- 
+ ![image](https://user-images.githubusercontent.com/116150760/232767419-dbeafdcc-d874-4a4a-a627-616ce08b4952.png)
+
 
 ---ผลการทดลอง `double`
- 
+ ![image](https://user-images.githubusercontent.com/116150760/232767605-c40810e9-b830-4936-9b79-02aea7b91481.png)
+
 ---ผลการทดลอง `decimal`
- 
+ ![image](https://user-images.githubusercontent.com/116150760/232767803-44596151-c524-40d9-b115-44ece0df805b.png)
+
 ---ผลการทดลอง `long`
+![image](https://user-images.githubusercontent.com/116150760/232768001-75614084-1cc8-4ac1-a647-2e421047892f.png)
 
 
 ---ผลการทดลอง `ulong`
+![image](https://user-images.githubusercontent.com/116150760/232768056-a6e366e9-e355-433c-833d-bdcbb11be49e.png)
 
 
 ---ผลการทดลอง `bool`
+![image](https://user-images.githubusercontent.com/116150760/232768373-c5b8a217-66b4-486c-a70c-1c3b61123a67.png)
 
 ---ผลการทดลอง `sbyte`
+![image](https://user-images.githubusercontent.com/116150760/232768659-95aca477-2f6d-4f53-96b0-60f619e76d84.png)
 
 
 ## การใช้งานข้อมูลชนิดต่างๆ
