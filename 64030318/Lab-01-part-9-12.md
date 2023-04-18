@@ -15,6 +15,7 @@ Console.WriteLine("Your key is: "+ch);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/116150760/232727835-7598b86a-f4f8-4d31-826e-a39fa4b7c407.png)
 
 
 ❔ ถ้าพิมพ์ตัวอักษรจำนวนหลายๆ ตัวแล้วกด Enter จะได้ผลอย่างไร ทำไมจึงเป็นเช่นนั้น
@@ -35,6 +36,7 @@ Console.WriteLine("You entered: "+str);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/116150760/232728020-0271379e-32c3-405c-a2c2-d873e89e05b2.png)
 
 ## 11. การรับค่าตัวเลขจากคีย์บอร์ด
 
@@ -50,6 +52,7 @@ Console.WriteLine(val1);
 ```
 
 ➢ รันโปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
+![image](https://user-images.githubusercontent.com/116150760/232728252-4289d82b-ba3a-42aa-83fa-795ef430340e.png)
 
 
 ❔ ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น มีวิธีการป้องกันหรือแก้ไขอย่างไร
@@ -77,6 +80,7 @@ catch (Exception e)
 ```
 
 ➢ รันโปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผล
+![image](https://user-images.githubusercontent.com/116150760/232728372-3906a73c-f0ce-4dc4-ad15-8df914b3dfc0.png)
 
 
 ❔ ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น เหมือนหรือต่างจากโปรแกรมก่อนหน้านี้อย่างไร
@@ -91,5 +95,6 @@ catch (Exception e)
 ``GPA :`` (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก)  
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/116150760/232732803-4cd5fbbf-1d64-4fd2-bcb6-0d532f0b055d.png)
 
 ## [การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#](./Lab-01-part-13.md)
