@@ -6,17 +6,17 @@
 | ชื่อตัวแปร | ใช้ได้/ไม่ได้ | เหตุผล|
 |--|--|--|
 | `xxx`     | ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
-| `null` | | |
-| `_value` | | |
-| `First-name`| | |
-| `Hello!` | | |
-| `w*h` | | |
-| `time` | | |
-| `do` | | |
-| `Do` | | |
-| `21November`| | |
-| `ladkrabang`| | |
-| `Student ID`| | |
+| `null` |ใช้ไม่ได้    |เป็นคำสงวนในภาษา C# |
+| `_value` |ใช้ได้|ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ  |
+| `First-name`|ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด |
+| `Hello!` |ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด |
+| `w*h` |ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด  |
+| `time` |ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `do` |ใช้ไม่ได้    |เป็นคำสงวนในภาษา C# |
+| `Do` |ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `21November`|ใช้ไม่ได้    |ละเมิดกฎการตั้งชื่อ |
+| `ladkrabang`|ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `Student ID`|ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
 
 
 ---ผลการทดลอง
@@ -59,36 +59,40 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
+![image](https://user-images.githubusercontent.com/115066414/235314676-67195be0-0009-48aa-9baa-503834f8ad51.png)
 
 ---ผลการทดลอง `byte`
+![image](https://user-images.githubusercontent.com/115066414/235314688-0c612a23-32a3-4b5e-b0cc-c30f88356afd.png)
 
 ---ผลการทดลอง `short`
- 
+ ![image](https://user-images.githubusercontent.com/115066414/235314705-7d236bb7-1a2c-40d4-b332-d778a48351d8.png)
 
 ---ผลการทดลอง `ushort`
-
- 
+![image](https://user-images.githubusercontent.com/115066414/235314722-230a3401-e74b-45da-aac3-8e6f01b13737.png)
 
 ---ผลการทดลอง `uint`
-
- 
+![image](https://user-images.githubusercontent.com/115066414/235314748-0768c612-e770-464f-a5fb-c108c7476ca4.png)
 
 ---ผลการทดลอง `float`
- 
+ ![image](https://user-images.githubusercontent.com/115066414/235314787-c144cc07-69cc-4bfd-a39d-81a5bf457f2e.png)
 
 ---ผลการทดลอง `double`
- 
----ผลการทดลอง `decimal`
- 
----ผลการทดลอง `long`
+ ![image](https://user-images.githubusercontent.com/115066414/235314798-04c79bc4-0d44-4cb2-854f-f2f3db3664ff.png)
 
+---ผลการทดลอง `decimal`
+ ![image](https://user-images.githubusercontent.com/115066414/235314821-0f8b84ad-9922-4993-a09b-15441a5904d7.png)
+
+---ผลการทดลอง `long`
+![image](https://user-images.githubusercontent.com/115066414/235314842-6ca1587c-769b-444d-ab70-0b07754b451f.png)
 
 ---ผลการทดลอง `ulong`
-
+![image](https://user-images.githubusercontent.com/115066414/235314880-5371b9ba-bed2-44ca-9a95-560c0e2f6b7e.png)
 
 ---ผลการทดลอง `bool`
+![image](https://user-images.githubusercontent.com/115066414/235314901-117d8cf5-22a4-4e2f-8646-614322c1e32f.png)
 
 ---ผลการทดลอง `sbyte`
+![image](https://user-images.githubusercontent.com/115066414/235314911-70c71e39-0a2b-439d-bafc-10f84987b668.png)
 
 
 ## การใช้งานข้อมูลชนิดต่างๆ
