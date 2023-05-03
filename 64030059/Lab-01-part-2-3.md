@@ -12,10 +12,14 @@ Console.Write("Hello");
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://user-images.githubusercontent.com/100436724/235917140-ae27366f-a70a-4808-82c7-2a0d2fdf92fe.png)
+
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 
-### 2.2 การใช้เมดธอด Console.Write() ร่วมกับ  `Environment.NewLine`
+  `เป็นอย่างที่คิดเพราะเคยศึกษามาก่อน`{#00FF00;}!
+
+➢ 2.2 การใช้เมดธอด Console.Write() ร่วมกับ  `Environment.NewLine`
 
 `Environment.NewLine` เป็นค่าคงที่ที่ถูกนิยามในภาษา C# เพื่อใช้สำหรับการส่งอักขระขึ้นบรรทัดใหม่ไปยัง console
 
@@ -28,9 +32,12 @@ Console.Write("Hello" + Environment.NewLine);
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://user-images.githubusercontent.com/100436724/235917961-2e7fcec1-e67e-47ac-86b4-e70b5718c90e.png)
+
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
 
+  ### ไม่เป็นอย่างที่คิดเพราะว่าจะมีการบวกติดกัน
 
 ## 3. เมดธอด Console.WriteLine()
 
