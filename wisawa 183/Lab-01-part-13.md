@@ -21,6 +21,20 @@
 
 ---ผลการทดลอง
 
+| ชื่อตัวแปร | ใช้ได้/ไม่ได้ | เหตุผล|
+|--|--|--|
+| `xxx`     | ใช้ได้ | ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `null` |ใช้ไม่ได้    |เป็นคำสงวนในภาษา C# |
+| `_value` |ใช้ได้|ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ  |
+| `First-name`|ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด |
+| `Hello!` |ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด |
+| `w*h` |ใช้ไม่ได้    |ตัวแปรจะต้องไม่ประกอบไปด้วยอักษรพิเศษทุกชนิด  |
+| `time` |ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `do` |ใช้ไม่ได้    |เป็นคำสงวนในภาษา C# |
+| `Do` |ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `21November`|ใช้ไม่ได้    |ละเมิดกฎการตั้งชื่อ |
+| `ladkrabang`|ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
+| `Student ID`|ใช้ได้    |ไม่มีตัวอักษรที่ละเมิดกฎการตั้งชื่อ |
 
 ## ชนิดข้อมูลภายในภาษา C\#
 
@@ -60,36 +74,61 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
 
+![image](https://user-images.githubusercontent.com/115066431/235935333-8f206129-e398-4b33-b4de-86df6cb445e6.png)
+
+
 ---ผลการทดลอง `byte`
+
+![image](https://user-images.githubusercontent.com/115066431/235935437-27c92e75-a17a-4d9b-98fc-d6a30c0aece2.png)
+
 
 ---ผลการทดลอง `short`
  
+![image](https://user-images.githubusercontent.com/115066431/235935600-a10b19de-490f-4fbf-a4f8-0dc2292e81da.png)
+
 
 ---ผลการทดลอง `ushort`
 
- 
+ ![image](https://user-images.githubusercontent.com/115066431/235935838-0a363b88-6670-41dd-b425-f90518d441fd.png)
+
 
 ---ผลการทดลอง `uint`
+
+![image](https://user-images.githubusercontent.com/115066431/235936926-aa3f807c-9961-4e9c-bdb0-6e274a6ca1a3.png)
 
  
 
 ---ผลการทดลอง `float`
- 
+
+ ![image](https://user-images.githubusercontent.com/115066431/235937271-fb0dbe0b-1a47-4097-85d3-5c667f56b623.png)
+
 
 ---ผลการทดลอง `double`
+
+![image](https://user-images.githubusercontent.com/115066431/235937618-9c47c1f1-6483-406b-8cad-b7adbac81bcc.png)
+
  
 ---ผลการทดลอง `decimal`
  
+ ![image](https://user-images.githubusercontent.com/115066431/235937754-eb1fd9ad-39ac-4da2-af58-3b47f3375d22.png)
+
 ---ผลการทดลอง `long`
+
+![image](https://user-images.githubusercontent.com/115066431/235937929-e552c593-ee7c-42d7-8a40-de901e088ff8.png)
 
 
 ---ผลการทดลอง `ulong`
 
+![image](https://user-images.githubusercontent.com/115066431/235938139-914771b9-fa17-4065-a86e-6335659e3b34.png)
+
 
 ---ผลการทดลอง `bool`
 
+![image](https://user-images.githubusercontent.com/115066431/235938570-4c8ff8d9-71de-4a89-b941-ae195627a6cb.png)
+
 ---ผลการทดลอง `sbyte`
 
+![image](https://user-images.githubusercontent.com/115066431/235938832-6af414d2-df99-418f-a095-5f52b6d7df75.png)
 
 ## การใช้งานข้อมูลชนิดต่างๆ
 
@@ -125,5 +164,15 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+44
+59
+97
+5
+91
+31
+59
+41
+63
+
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
