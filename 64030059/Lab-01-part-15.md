@@ -25,6 +25,7 @@ Console.WriteLine("f={0}", f);
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://user-images.githubusercontent.com/100436724/235941967-61879475-752d-4602-837b-6aac0bf3bc4b.png)
 
 
 
@@ -34,15 +35,45 @@ Console.WriteLine("f={0}", f);
 👉 ให้เขียนโปรแกรมเพื่อหาผลลัพธ์ของสมการต่อไปนี้
 
 1. `a+b`
+
+![image](https://user-images.githubusercontent.com/100436724/235947259-379df3a7-7f13-4a4d-84c4-135dbc591f51.png)
+
 2. `x-b`
+
+![image](https://user-images.githubusercontent.com/100436724/235947388-494fcdd0-3a4f-4a52-8d6c-77cf0e9b748f.png)
+
 3. `x*b`
+
+![image](https://user-images.githubusercontent.com/100436724/235947497-55f1b23d-42e9-4743-935c-6e140580b98c.png)
+
 4. `y/a`
+
+![image](https://user-images.githubusercontent.com/100436724/235947614-126171c7-d21a-48b1-8b91-9165fea20dc7.png)
+
 5. `b%y`
+
+![image](https://user-images.githubusercontent.com/100436724/235947741-157d5020-a845-4e83-9c4b-d71d88c35c68.png)
+
 6. `y+10%x`
+
+![image](https://user-images.githubusercontent.com/100436724/235947861-23eda04f-50fd-410f-a953-980b3882cec7.png)
+
 7. `a/3*5`
+
+![image](https://user-images.githubusercontent.com/100436724/235947978-a37a55e2-b484-4297-b1ce-9dd4b34643f4.png)
+
 8. `9/2*a`
+
+![image](https://user-images.githubusercontent.com/100436724/235948080-7454342f-7315-469c-8c5f-485850a6305e.png)
+
 9. `y%8`
+
+![image](https://user-images.githubusercontent.com/100436724/235948184-5a7e8e13-2472-492f-8c05-3e8517de2445.png)
+
 10. `100*x+y%2-a`
+
+![image](https://user-images.githubusercontent.com/100436724/235948328-bc5c59c2-cf13-405c-a2e2-901c344bc9bd.png)
+
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
@@ -73,6 +104,7 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://user-images.githubusercontent.com/100436724/235949499-975ae0c0-48c4-4059-862b-f550c33c25ae.png)
 
 
 
@@ -81,14 +113,14 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 
 | ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
 |---|---|---|---|
-| Mercury | 57,910,000 km | |
-| Venus | 108,200,000 km | |
-| Earth | 149,600,000 km | |
-| Mars | 227,940,000 km | |
-| Jupiter |  778,330,000 km | |
-| Uranus | 2,873,550,000 km | |
-| Neptune | 4,501,000,000 km | |
-| Pluto | 5,945,900,000 km | |
+| Mercury | 57,910,000 km |0.387 |0.00000612
+| Venus | 108,200,000 km |0.723 |0.000011426
+| Earth | 149,600,000 km |1 |0.000015813
+| Mars | 227,940,000 km |1.522 |0.0000241
+| Jupiter |  778,330,000 km |5.211 |0.00008227
+| Uranus | 2,873,550,000 km |19.192 |0.000303471
+| Neptune | 4,501,000,000 km |30.114 |0.000476115
+| Pluto | 5,945,900,000 km |39.246 |0.000620473
 
 
 
@@ -114,5 +146,6 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/100436724/235951100-46c29889-060d-4450-8f5d-f40599be1159.png)
 
   
