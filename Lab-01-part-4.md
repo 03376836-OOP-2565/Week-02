@@ -11,6 +11,7 @@ Console.WriteLine("This is text 3.");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/b58df692-8486-4890-9d7b-183bbf3ed1c7)
 
 
 ถ้าหากต้องการให้แก้ไขค่าตัวแปรที่จะแสดงออกทาง console เราก็อาจจะใช้ป้ายกำกับสำหรับรับค่าออกไปแสดงที่ output เรียกว่า place holder
