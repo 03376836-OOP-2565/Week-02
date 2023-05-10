@@ -10,6 +10,7 @@ Console.WriteLine("{0:F4}", i);
 Console.WriteLine("{0:F5}", i);
 ```
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/f6ed9eaf-ec9f-4b44-ba1c-8c147d5212d9)
 
 
 ## ❔ แบบฝึกหัด จงรันโปรแกรมและบันทึกภาพ output ของบรรทัดคำสั่งต่อไปนี้
