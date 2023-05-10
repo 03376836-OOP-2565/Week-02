@@ -28,10 +28,11 @@ Console.Write("Hello" + Environment.NewLine);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/5ccf86e9-fb79-435b-9776-f4f899be548b)
 
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
-
+เป็นไปอย่างที่คิด เป็นการเเสดงเว้นบรรทัด
 
 ## 3. เมดธอด Console.WriteLine()
 
