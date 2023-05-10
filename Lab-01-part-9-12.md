@@ -96,5 +96,6 @@ catch (Exception e)
 ``GPA :`` (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก)  
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/cecf518a-f851-4a96-816d-3acec7f0bd7e)
 
 ## [การตั้งชื่อตัวแปรและชนิดข้อมูลในภาษา C\#](./Lab-01-part-13.md)
