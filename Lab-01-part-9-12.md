@@ -39,8 +39,6 @@ Console.WriteLine("You entered: "+str);
 ➢ รันโปรแกรมและบันทึกผล
 ![image](https://github.com/Poramat45/Week-02/assets/115066249/7b96cef2-377e-48f8-aaff-d6cf789a58fe)
 
-![image](https://github.com/Poramat45/Week-02/assets/115066249/3edfd075-d1a6-45d6-b4ab-512b0863dc34)
-
 
 ## 11. การรับค่าตัวเลขจากคีย์บอร์ด
 
