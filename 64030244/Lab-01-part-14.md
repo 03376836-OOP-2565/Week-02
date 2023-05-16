@@ -66,15 +66,35 @@ Console.WriteLine("-----------------------");
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/06f81b01-e43a-42d6-a9b2-c6d74f4fab75)
+
  
 👷 จากจ้อ 14 ให้เขียนโปรแกรมเพื่อสร้างตารางความจริงของลอจิกดังต่อไปนี้
 
-1. `AND`
-2. `OR`
-3. `NOT`
-4. `NAND`
+1. `AND` 
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/ae10c569-9ca3-47ae-92f2-f81a08d746b4)
+
+2. `OR` 
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/6c535108-08d1-48b4-8906-e8b020d98ee9)
+
+3. `NOT` 
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/4a027ca5-b3e5-4c5f-817a-4c2d72b6cc16)
+
+4. `NAND` 
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/157cc013-d8e8-4bfe-9da1-aebe79430c90)
+
 5. `NOR`
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/00d11090-b16d-4645-8c22-d26e5fa26492)
+
 6. `Exclusive OR`
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/9eb9a3db-d4b4-42a0-b012-ce2cc36f9f15)
+
 
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
