@@ -20,6 +20,7 @@
 
 
 ---ผลการทดลอง
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/74bc10c8-50d1-4fdf-83d3-54e0105cce2f)
 
 
@@ -61,48 +62,60 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/b2077b25-0036-448a-9261-63996d3599c7)
 
 
 ---ผลการทดลอง `byte`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/3d699ca1-7506-4a15-b287-c7020c93e4d4)
 
 ---ผลการทดลอง `short`
- ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/7afd002f-ddac-48a4-99f3-a15ba6593a04)
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/7afd002f-ddac-48a4-99f3-a15ba6593a04)
 
 
 ---ผลการทดลอง `ushort`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/8dece55a-f1f3-4ea0-a37d-057f3a7e67c7)
 
  
 
 ---ผลการทดลอง `uint`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/ba79b1b8-679b-4d8f-91fb-b45a969e1219)
 
  
 
 ---ผลการทดลอง `float`
- ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/0e706d01-d512-4bf8-80f4-5de6eaf930f2)
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/0e706d01-d512-4bf8-80f4-5de6eaf930f2)
 
 
 ---ผลการทดลอง `double`
- ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/6afb67bd-8582-4b4e-95d1-f7f9fcb8654b)
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/6afb67bd-8582-4b4e-95d1-f7f9fcb8654b)
 
 ---ผลการทดลอง `decimal`
- ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/78ee6079-3022-4adb-b271-5659f0b7dbfd)
+
+![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/78ee6079-3022-4adb-b271-5659f0b7dbfd)
 
 ---ผลการทดลอง `long`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/0a15ba58-8076-4f08-b701-0f2c3a786cd3)
 
 
 ---ผลการทดลอง `ulong`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/43496e21-6a29-43b8-b3a8-90cd539fd7e6)
 
 
 ---ผลการทดลอง `bool`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/7f59fd4a-2d9e-4513-8aca-4fe7e1dfdf52)
 
 ---ผลการทดลอง `sbyte`
+
 ![image](https://github.com/CHAIYAPRUK/OOP2565-Week-02/assets/115066395/a2f71dde-1c6b-43dc-823f-7846163d2564)
 
 
