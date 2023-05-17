@@ -22,6 +22,8 @@ Console.WriteLine("{0, 20}", 1);
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://github.com/TanapatPluemchai/Week-02/assets/115067806/d6a21325-0c16-44c5-beb6-e4f6e779a81b)
+
  
 ❔ การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , } ในคำสั่ง ``Console.WriteLine()`` มีรูปแบบการใช้งานอย่างไร
 
@@ -43,6 +45,9 @@ Console.WriteLine("{0, 0:X}", n);
 
 ➢ รันโปรแกรมและบันทึกผล
 
+![image](https://github.com/TanapatPluemchai/Week-02/assets/115067806/b1fbf10f-d22d-4cec-b196-a1586112bf8d)
+
+
 ❔  การกำหนดตัวอักษร E, F, G, N, P, X หมายถึงให้พิมพ์ออกมาเป็นอะไร
 
  
@@ -62,6 +67,8 @@ Console.WriteLine("{0, 20:X}", 1);
 ```
 
 ➢   รันโปรแกรมและบันทึกผล
+
+![image](https://github.com/TanapatPluemchai/Week-02/assets/115067806/79659d2b-9fb1-42c6-94bf-8408f0eda616)
 
  
 ## [Part 8  การกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์](./Lab-01-part-8.md)
