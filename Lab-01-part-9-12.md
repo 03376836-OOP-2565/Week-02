@@ -96,9 +96,20 @@ catch (Exception e)
 
 ให้เขียน code ในการรับค่าอินพุตต่อไปนี้และแสดงออกหน้าจอให้ถูกต้อง Name : (ป้อนชื่อของนักศึกษา)
 
-``Lastname :`` (ป้อนนามสกุลนักศึกษา)  
+``Lastname :`` (ป้อนนามสกุลนักศึกษา) 
+
+![image](https://github.com/TanapatPluemchai/Week-02/assets/115067806/641ed169-57c9-4ea9-9ab7-4a5f9133d408)
+
+
 ``ID :`` (ป้อนรหัสนักศึกษา)  
+
+![image](https://github.com/TanapatPluemchai/Week-02/assets/115067806/ec5e222d-ad6a-4ee2-a74a-1db2dd8323cb)
+
+
 ``GPA :`` (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก)  
+
+![image](https://github.com/TanapatPluemchai/Week-02/assets/115067806/bcb3099a-a36c-47b1-ac35-45b40c92b223)
+
 
 ➢ รันโปรแกรมและบันทึกผล
 
